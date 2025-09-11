@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color:black;
     background: rgb(190, 113, 113);
     margin: 0px;
 }
@@ -16,4 +16,8 @@ section{
     padding-top: 80px ;
     display: flex;
     justify-content: center;
+}
+.chamada de texto{
+    margin-right: 5%;
+
 }
